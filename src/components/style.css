@@ -1,0 +1,20 @@
+.hero {
+  position: relative;
+}
+/* .hero::after {
+  content: "";
+  position: absolute;
+  background-image: url("/images/grid.png");
+  width: 460px;
+  height: 460px;
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: contain;
+  top: 0;
+  right: 150px;
+  z-index: 0;
+  opacity: 0.4;
+} */
+.service-card {
+  border: 1px solid #ddd;
+}
